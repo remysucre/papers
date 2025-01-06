@@ -4,14 +4,5 @@ mainfont: sans-serif
 link-citations: true
 nocite: |
   @*
-header-includes: |
-  <style>
-  div.csl-bib-body>div:nth-of-type(odd) {
-    background: #e0e0e0;
-  }
-  div.csl-entry {
-    padding: 0.2em;
-  }
-  </style>
 ...
 
