@@ -1,6 +1,6 @@
 ---
 title: Papers
-mainfont: sans-serif
+mainfont: palatino,serif
 link-citations: true
 nocite: |
   @*
@@ -9,6 +9,7 @@ header-includes: |
   div.csl-entry {
     padding: 0.3em;
   }
+  html { background-color: #F0EEE9; }
   </style>
 ...
 
